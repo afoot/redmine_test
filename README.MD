@@ -1,4 +1,4 @@
-# REDMINE NGINX MARAIDB
+# Redmine Nginx Mariadb
 
 ## Instalation
 
