@@ -1,6 +1,6 @@
 # Redmine Nginx Mariadb
 
-## Instalation
+## Installation
 
 ### Download Redmine's source code using by
 ```bash
